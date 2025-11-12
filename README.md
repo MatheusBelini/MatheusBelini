@@ -7,16 +7,15 @@ Atualmente, estou expandindo meus conhecimentos em **Back-end e JavaScript**, co
 ---
 
 ## 🔗 Redes Sociais
-
 <p align="left">
   <a href="https://github.com/matheusbelini" target="_blank">
-    <img alt="GitHub" src="[https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white](https://github.com/matheusbelini)"/>
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/matheus-belini-192954337/" target="_blank">
-    <img alt="LinkedIn" src="[https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)"/>
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/matheusbelinii/" target="_blank">
-    <img alt="Instagram" src="[https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white](https://www.instagram.com/matheusbelinii/#)"/>
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
 
