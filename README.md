@@ -32,10 +32,4 @@ Atualmente, estou expandindo meus conhecimentos em **Back-end e JavaScript**, co
 
 </p>
 
----
 
-## 📈 Estatísticas do GitHub
-
-<p align="left">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=matheusbelini&show_icons=true&theme=dark&hide_border=true"/>
-</p>
