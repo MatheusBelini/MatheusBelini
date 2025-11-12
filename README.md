@@ -1,1 +1,2 @@
-alo
+Sou um desenvolvedor web com foco em tecnologias front-end, utilizando principalmente JavaScript, HTML e CSS para criar interfaces modernas, responsivas e funcionais. Tenho grande interesse em design de interfaces e experiência do usuário (UX), buscando sempre combinar estética, usabilidade e performance em meus projetos.
+Atualmente, estou expandindo meus conhecimentos em Back-end e JavaScript, com o objetivo de desenvolver soluções completas e integradas, oferecendo produtos digitais de alta qualidade e impacto.
